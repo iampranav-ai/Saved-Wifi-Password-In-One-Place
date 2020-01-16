@@ -5,7 +5,7 @@
 
 
 
-You can see all your previously saved password in one with just by running this file in python ...
+You can see all your previously saved password in one place with just by running this file in python ...
 
 
 ### Enjoy!!
